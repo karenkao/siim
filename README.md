@@ -9,3 +9,9 @@
 寫好準備 data
 
 補一下 data review
+
+
+## 參考:
+
+- https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview/siim-cloud-healthcare-api-tutorial
+- https://www.kaggle.com/seesee/siim-train-test?select=train-rle.csv
